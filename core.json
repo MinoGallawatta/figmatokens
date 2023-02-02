@@ -1175,7 +1175,7 @@
     },
     "theme": {
       "primary-color": {
-        "value": "{Tailwind.amber.400}",
+        "value": "#FBBF24",
         "type": "color",
         "description": "Primary color for most of the comps in Yellow theme"
       },
